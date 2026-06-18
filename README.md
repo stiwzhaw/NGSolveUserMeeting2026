@@ -60,4 +60,10 @@ Please find below the meeting materials and resources for the NGSolve User Meeti
 
 ## Day 3 — Wednesday, July 1, 2026
 *   **09:00 - 12:00:** Mini sessions
+    * 9:00 - 9:45	Session 1
+    * 9:45 -  10:15	Coffee break
+    * 10:15 - 11:00	Session 2
+    * 11:00 - 11:15	Short break
+    * 11:15 - 12:00	Session 3
+
 *   **12:00:** Wrap-up and goodbyes
