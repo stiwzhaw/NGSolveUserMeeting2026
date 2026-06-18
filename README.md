@@ -49,12 +49,13 @@ Please find below the meeting materials and resources for the NGSolve User Meeti
 *   **14:00 - 18:00:** User sessions & insights from the core team
     * 14:00 - 14:20	Sosoho-Abasi Udongwo: *State-Space Concatenation of Reduced Finite Element Models for Accelerator Structures*
     * 14:30 - 14:50	Tim van Beeck: *Releasing the pressure for Surface Navier-Stokes*
-    * 15:00 - 15:30	Christopher *Heat-pump (Navierstokes / Interface / AMG)*
-    * 15:30 - 16:00	Coffee break
-    * 16:00 - 16:30	Alexandre: *Nav-Stokes + Thermo*
-    * 16:30 - 17:00	Matthias/Christopher: *WebGPU*
-    * 17:00 - 17:15	Short break
-    * 17:15 - 18:00	Christopher/Matthias: *Min Apps*
+    * 15:00 - 15:20  Yashwanth Sooriyakanthan: *Efficient Computational Simulation of Floor-Borne Vibrations in Magnet Resonance Imaging Scanners*
+    * 15:30 - 16:00  Coffee break
+    * 16:00 - 16:20  Christopher Lackner: *Heat-pump (Navierstokes / Interface / AMG)*
+    * 16:20 - 16:50	Alexandre Tyl: *Nav-Stokes + Thermo*
+    * 16:50 - 17:00  Short break
+    * 17:00 - 17:30	Matthias Hochsteger / Christopher Lackner: *WebGPU*
+    * 17:30 - 18:00	Christopher Lackner / Matthias Hochsteger: *Min Apps*
 
 *   **19:00:** Workshop Dinner at **[Alte Kaserne](https://www.google.ch/maps/place/Alte+Kaserne+Kulturzentrum/@47.4978957,8.7314626,17z/data=!3m1!4b1!4m6!3m5!1s0x479a999cf56459dd:0x824337f4a4dddc51!8m2!3d47.4978957!4d8.7314626!16s%2Fg%2F122jqxx5?entry=tts&g_ep=EgoyMDI2MDUzMS4wIPu8ASoASAFQAw%3D%3D&skid=3eace40b-6069-47f8-a8c5-1caac07e6021)**
 
