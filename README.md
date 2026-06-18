@@ -1,3 +1,63 @@
 # NGSolve User Meeting 2026
 
 Please find below the meeting materials and resources for the NGSolve User Meeting 2026. This includes presentation slides, source codes, and additional documentation.
+
+## Information
+
+* **Date:** June 29 – July 1, 2026 (Get Together on June 28)
+* **Location:** [ZHAW School of Engineering, Building TH](https://www.zhaw.ch/en/engineering/about-us/locations-and-maps/), Technikumstrasse 9, 8401 Winterthur, Switzerland
+    * **Sessions**: TH 343
+    * **Registration / Coffee Breaks**: TH 363
+
+
+# Program Schedule
+
+## Get Together — Sunday, June 28, 2026
+*   **19:00:** Get together at **[Nelson Pub Winterthur](https://www.google.ch/maps/place/Nelson+Pub/@47.4979475,8.7234778,17z/data=!4m6!3m5!1s0x479a990cb44db039:0xb3f95785a2267414!8m2!3d47.4979475!4d8.7260527!16s%2Fg%2F11q1c_0fkx?entry=tts&g_ep=EgoyMDI2MDUzMS4wIPu8ASoASAFQAw%3D%3D&skid=545a91fc-edeb-446e-b6e8-0c84012e9266)**
+    > *Note: The old town will be lively as the Albanifest festival runs until 10:00 PM.*
+
+## Day 1 — Monday, June 29, 2026
+*   **08:30:** Registration
+*   **09:00 - 12:00:** Introduction to NGSolve (Christoph Lehrenfeld)
+    * 9:00 - 9:45 *„Taming the Beast"* (Introduction I): Basics, Geometries and First PDEs
+    * 9:45 - 10:15 Coffee break
+    * 10:15 - 11:00	*„In the Saddle"* (Introduction II): Features for Applications
+    * 11:00 - 11:15	Short break
+    * 11:15 - 12:00	*„Taking Flight"* (Introduction III): Advanced Techniques
+
+*   **12:00 - 14:00:** Lunch Break
+*   **14:00 - 18:00:** Recent developments
+    * 14:00 - 14:45	Jay Gopalakrishnan: *tbd (?)*
+    * 14:45 - 15:00	Short break
+    * 15:00 - 15:45	Joachim Schöberl: *MCS / TDNNS*
+    * 15:45 - 16:15	Coffee break
+    * 16:15 - 17:00	Philip Lederer: *Recent advances in the Dream-solver package*
+    * 17:00 - 17:15	Short break
+    * 17:15 - 18:00	Paul Stocker: *NGSTrefftz: Recent Developments*
+
+
+## Day 2 — Tuesday, June 30, 2026
+*   **09:00 - 12:00:** User sessions
+    * 9:00 - 9:20	Kengo Sugahara: *Coreform Cubit Integration with NGSolve (online)*
+    * 9:30 - 9:50	Takaaki Yano: *Bi-directional Weak Coupling of Integral Element Method and NGSolve for Magnetic Levitation Analysis (online)*
+    * 9:50 - 10:20	Coffee break
+    * 10:20 - 10:40	Camilo Tello Fachin: *Coupled Finite Element Modeling of Ground Heat Recovery with Ice Formation*
+    * 10:50 - 11:20	Alberto Battistel: *Multiphysics Finite Element Simulation of Hybrid Electrical Tomography*
+    * 11:30 - 11:50	Juan Pablo Carbajal, Reza Housseini: *Wave propagation in non-Newtonian media*
+
+*   **12:00 - 14:00:** Lunch Break
+*   **14:00 - 18:00:** User sessions & insights from the core team
+    * 14:00 - 14:20	Sosoho-Abasi Udongwo: *State-Space Concatenation of Reduced Finite Element Models for Accelerator Structures*
+    * 14:30 - 14:50	Tim van Beeck: *Releasing the pressure for Surface Navier-Stokes*
+    * 15:00 - 15:30	Christopher *Heat-pump (Navierstokes / Interface / AMG)*
+    * 15:30 - 16:00	Coffee break
+    * 16:00 - 16:30	Alexandre: *Nav-Stokes + Thermo*
+    * 16:30 - 17:00	Matthias/Christopher: *WebGPU*
+    * 17:00 - 17:15	Short break
+    * 17:15 - 18:00	Christopher/Matthias: *Min Apps*
+
+*   **19:00:** Workshop Dinner at **[Alte Kaserne](https://www.google.ch/maps/place/Alte+Kaserne+Kulturzentrum/@47.4978957,8.7314626,17z/data=!3m1!4b1!4m6!3m5!1s0x479a999cf56459dd:0x824337f4a4dddc51!8m2!3d47.4978957!4d8.7314626!16s%2Fg%2F122jqxx5?entry=tts&g_ep=EgoyMDI2MDUzMS4wIPu8ASoASAFQAw%3D%3D&skid=3eace40b-6069-47f8-a8c5-1caac07e6021)**
+
+## Day 3 — Wednesday, July 1, 2026
+*   **09:00 - 12:00:** Mini sessions
+*   **12:00:** Wrap-up and goodbyes
