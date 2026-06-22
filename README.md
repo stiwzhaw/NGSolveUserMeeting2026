@@ -3,7 +3,7 @@ Please find below the meeting materials and resources for the NGSolve User Meeti
 ## Information
 
 * **Date:** June 29 – July 1, 2026 (Get Together on June 28)
-* **Location:** [ZHAW School of Engineering, Building TH](https://www.zhaw.ch/en/engineering/about-us/locations-and-maps/), Technikumstrasse 9, 8401 Winterthur, Switzerland
+* **Location:** [ZHAW School of Engineering, Building TH](https://www.zhaw.ch/storage/shared/hochschule/lageplaene/lageplaene-winterthur/lageplan-winterthur-technikumstrasse-en.pdf), Technikumstrasse 9, 8401 Winterthur, Switzerland
     * **Sessions**: TH 343
     * **Registration / Coffee Breaks**: TH 363
 
