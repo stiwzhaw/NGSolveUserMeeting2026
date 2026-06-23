@@ -26,7 +26,7 @@ Please find below the meeting materials and resources for the NGSolve User Meeti
 *   **12:00 - 14:00:** Lunch Break
 *   **14:00 - 18:00:** Recent developments
     * 14:00 - 14:45	Joachim Schöberl: *New developments in NGSolve*
-    * 14:45 - 15:15	Jay Gopalakrishnan: *tbd*
+    * 14:45 - 15:15	Jay Gopalakrishnan: *Capturing losses and features of optical fiber modes.*
     * 15:15 - 15:45 Umberto Zerbinati: [*ngsVEM: A Lightning Virtual Element Method Library for NGSolve*](Abstracts.md#ngsVEM:a-lightning-virtual-element-method-library-for-ngsolve)
     * 15:45 - 16:15	Coffee break
     * 16:15 - 16:45	Philip Lederer: *Recent advances in the Dream-solver package*
