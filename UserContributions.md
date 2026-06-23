@@ -1,4 +1,11 @@
 # User Contributions
+## ngsVEM: A Lightning Virtual Element Method Library for NGSolve
+
+Umberto Zerbinati<br>
+University of Oxford
+
+ngsVEM is an NGSolve add-on for solving PDEs on polygonal meshes using the Lightning Virtual Element Method. By approximating virtual basis functions with rational functions, the method avoids the projection and stabilization procedures typical of classical VEM. We present the main ideas behind the method, its implementation within NGSolve, and numerical examples illustrating its accuracy and flexibility on polygonal meshes.
+
 ## Coreform Cubit Integration with NGSolve (Online)
 
 Kengo Sugahara<br>

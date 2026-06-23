@@ -8,7 +8,7 @@ Please find below the meeting materials and resources for the NGSolve User Meeti
     * **Registration / Coffee Breaks**: TH 363
 
 
-# Program Schedule
+# Preliminary Program Schedule
 
 ## Get Together — Sunday, June 28, 2026
 *   **19:00:** Get together at **[Nelson Pub Winterthur](https://www.google.ch/maps/place/Nelson+Pub/@47.4979475,8.7234778,17z/data=!4m6!3m5!1s0x479a990cb44db039:0xb3f95785a2267414!8m2!3d47.4979475!4d8.7260527!16s%2Fg%2F11q1c_0fkx?entry=tts&g_ep=EgoyMDI2MDUzMS4wIPu8ASoASAFQAw%3D%3D&skid=545a91fc-edeb-446e-b6e8-0c84012e9266)**
@@ -25,13 +25,14 @@ Please find below the meeting materials and resources for the NGSolve User Meeti
 
 *   **12:00 - 14:00:** Lunch Break
 *   **14:00 - 18:00:** Recent developments
-    * 14:00 - 14:45	Jay Gopalakrishnan: *tbd (?)*
-    * 14:45 - 15:00	Short break
-    * 15:00 - 15:45	Joachim Schöberl: *MCS / TDNNS*
+    * 14:00 - 14:45	Joachim Schöberl: *New developments in NGSolve*
+    * 14:45 - 15:15	Jay Gopalakrishnan: *tbd*
+    * 15:15 - 15:45 Umberto Zerbinati: [*ngsVEM: A Lightning Virtual Element Method Library for NGSolve*](UserContributions.md#ngsVEM:a-lightning-virtual-element-method-library-for-ngsolve)
     * 15:45 - 16:15	Coffee break
-    * 16:15 - 17:00	Philip Lederer: *Recent advances in the Dream-solver package*
-    * 17:00 - 17:15	Short break
-    * 17:15 - 18:00	Paul Stocker: *NGSTrefftz: Recent Developments*
+    * 16:15 - 16:45	Philip Lederer: *Recent advances in the Dream-solver package*
+    * 16:45 - 17:15	Paul Stocker: *NGSTrefftz: Recent Developments*
+    * 17:15 - 17:30 Natalia Tylek: *Linear Solvers on GPUs*
+    * 17:30 - 17:45 Rafael Dorigo: *BEM in NGSolve*
 
 
 ## Day 2 — Tuesday, June 30, 2026
