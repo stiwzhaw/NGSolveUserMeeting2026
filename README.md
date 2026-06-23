@@ -27,28 +27,28 @@ Please find below the meeting materials and resources for the NGSolve User Meeti
 *   **14:00 - 18:00:** Recent developments
     * 14:00 - 14:45	Joachim Schöberl: *New developments in NGSolve*
     * 14:45 - 15:15	Jay Gopalakrishnan: *tbd*
-    * 15:15 - 15:45 Umberto Zerbinati: [*ngsVEM: A Lightning Virtual Element Method Library for NGSolve*](UserContributions.md#ngsVEM:a-lightning-virtual-element-method-library-for-ngsolve)
+    * 15:15 - 15:45 Umberto Zerbinati: [*ngsVEM: A Lightning Virtual Element Method Library for NGSolve*](Abstracts.md#ngsVEM:a-lightning-virtual-element-method-library-for-ngsolve)
     * 15:45 - 16:15	Coffee break
     * 16:15 - 16:45	Philip Lederer: *Recent advances in the Dream-solver package*
-    * 16:45 - 17:15	Paul Stocker: [*NGSTrefftz: Recent Developments*](UserContributions.md#ngstrefftz:-recent-developments)
+    * 16:45 - 17:15	Paul Stocker: [*NGSTrefftz: Recent Developments*](Abstracts.md#ngstrefftz:-recent-developments)
     * 17:15 - 17:30 Natalia Tylek: *Linear Solvers on GPUs*
     * 17:30 - 17:45 Rafael Dorigo: *BEM in NGSolve*
 
 
 ## Day 2 — Tuesday, June 30, 2026
 *   **09:00 - 12:00:** User sessions
-    * 9:00 - 9:20	[Kengo Sugahara: [*Coreform Cubit Integration with NGSolve (online)*](UserContributions.md#coreform-cubit-integration-with-ngsolve-(online))
-    * 9:30 - 9:50	Takaaki Yano: [*Bi-directional Weak Coupling of Integral Element Method and NGSolve for Magnetic Levitation Analysis (online)*](UserContributions.md#bi-directional-weak-coupling-of-integral-element-method-and-ngsolve-for-magnetic-levitation-analysis-(online))
-    * 9:50 - 10:20	Coffee break
-    * 10:20 - 10:40	Camilo Tello Fachin: [*Coupled Finite Element Modeling of Ground Heat Recovery with Ice Formation*](UserContributions.md#coupled-finite-element-modeling-of-ground-heat-recovery-with-ice-formation)
-    * 10:50 - 11:20	Alberto Battistel: [*Multiphysics Finite Element Simulation of Hybrid Electrical Tomography*](UserContributions.md#multiphysics-finite-element-simulation-of-hybrid-electrical-tomography)
-    * 11:30 - 11:50	Juan Pablo Carbajal, Reza Housseini: [*Wave propagation in non-Newtonian media*](UserContributions.md#wave-propagation-in-non-newtonian-media)
+    * 9:00 - 9:20 Kengo Sugahara: [*Coreform Cubit Integration with NGSolve (online)*](Abstracts.md#coreform-cubit-integration-with-ngsolve-(online))
+    * 9:30 - 9:50 Takaaki Yano: [*Bi-directional Weak Coupling of Integral Element Method and NGSolve for Magnetic Levitation Analysis (online)*](Abstracts.md#bi-directional-weak-coupling-of-integral-element-method-and-ngsolve-for-magnetic-levitation-analysis-(online))
+    * 9:50 - 10:20 Coffee break
+    * 10:20 - 10:40	Camilo Tello Fachin: [*Coupled Finite Element Modeling of Ground Heat Recovery with Ice Formation*](Abstracts.md#coupled-finite-element-modeling-of-ground-heat-recovery-with-ice-formation)
+    * 10:50 - 11:20	Alberto Battistel: [*Multiphysics Finite Element Simulation of Hybrid Electrical Tomography*](Abstracts.md#multiphysics-finite-element-simulation-of-hybrid-electrical-tomography)
+    * 11:30 - 11:50	Juan Pablo Carbajal, Reza Housseini: [*Wave propagation in non-Newtonian media*](Abstracts.md#wave-propagation-in-non-newtonian-media)
 
 *   **12:00 - 14:00:** Lunch Break
 *   **14:00 - 18:00:** User sessions & insights from the core team
-    * 14:00 - 14:20	Sosoho-Abasi Udongwo: [*State-Space Concatenation of Reduced Finite Element Models for Accelerator Structures*](UserContributions.md#state-space-concatenation-of-reduced-finite-element-models-for-accelerator-structures)
-    * 14:30 - 14:50	Tim van Beeck: [*Releasing the pressure for Surface Navier-Stokes*](UserContributions.md#releasing-the-pressure-for-surface-navier-stokes)
-    * 15:00 - 15:20  Yashwanth Sooriyakanthan: [*Efficient Computational Simulation of Floor-Borne Vibrations in Magnet Resonance Imaging Scanners*](UserContributions.md#efficient-computational-simulation-of-floor-borne-vibrations-in-magnet-resonance-imaging-scanners)
+    * 14:00 - 14:20	Sosoho-Abasi Udongwo: [*State-Space Concatenation of Reduced Finite Element Models for Accelerator Structures*](Abstracts.md#state-space-concatenation-of-reduced-finite-element-models-for-accelerator-structures)
+    * 14:30 - 14:50	Tim van Beeck: [*Releasing the pressure for Surface Navier-Stokes*](Abstracts.md#releasing-the-pressure-for-surface-navier-stokes)
+    * 15:00 - 15:20  Yashwanth Sooriyakanthan: [*Efficient Computational Simulation of Floor-Borne Vibrations in Magnet Resonance Imaging Scanners*](Abstracts.md#efficient-computational-simulation-of-floor-borne-vibrations-in-magnet-resonance-imaging-scanners)
     * 15:30 - 16:00  Coffee break
     * 16:00 - 16:20  Christopher Lackner: *Heat-pump (Navierstokes / Interface / AMG)*
     * 16:20 - 16:50	Alexandre Tyl: *Nav-Stokes + Thermo*
