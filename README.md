@@ -6,6 +6,7 @@ Please find below the meeting materials and resources for the NGSolve User Meeti
 * **Location:** [ZHAW School of Engineering, Building TH](https://www.zhaw.ch/storage/shared/hochschule/lageplaene/lageplaene-winterthur/lageplan-winterthur-technikumstrasse-en.pdf), Technikumstrasse 9, 8401 Winterthur, Switzerland
     * **Sessions**: TH 343
     * **Registration / Coffee Breaks**: TH 363
+* **Lunch break:** [A brief overview can be found here](Docs/LunchBreak.md)
 
 
 # Preliminary Program Schedule
@@ -23,7 +24,7 @@ Please find below the meeting materials and resources for the NGSolve User Meeti
     * 11:00 - 11:15	Short break
     * 11:15 - 12:00	*„Taking Flight"* (Introduction III): Advanced Techniques
 
-*   **12:00 - 14:00:** Lunch Break
+*   **12:00 - 14:00:** [Lunch Break](Docs/LunchBreak.md)
 *   **14:00 - 18:00:** Recent developments
     * 14:00 - 14:45	Joachim Schöberl: *New developments in NGSolve*
     * 14:45 - 15:15	Jay Gopalakrishnan: *Capturing losses and features of optical fiber modes.*
@@ -44,7 +45,7 @@ Please find below the meeting materials and resources for the NGSolve User Meeti
     * 10:50 - 11:20	Alberto Battistel: [*Multiphysics Finite Element Simulation of Hybrid Electrical Tomography*](Abstracts.md#multiphysics-finite-element-simulation-of-hybrid-electrical-tomography)
     * 11:30 - 11:50	Juan Pablo Carbajal, Reza Housseini: [*Wave propagation in non-Newtonian media*](Abstracts.md#wave-propagation-in-non-newtonian-media)
 
-*   **12:00 - 14:00:** Lunch Break
+*   **12:00 - 14:00:** [Lunch Break](Docs/LunchBreak.md)
 *   **14:00 - 18:00:** User sessions & insights from the core team
     * 14:00 - 14:20	Sosoho-Abasi Udongwo: [*State-Space Concatenation of Reduced Finite Element Models for Accelerator Structures*](Abstracts.md#state-space-concatenation-of-reduced-finite-element-models-for-accelerator-structures)
     * 14:30 - 14:50	Tim van Beeck: [*Releasing the pressure for Surface Navier-Stokes*](Abstracts.md#releasing-the-pressure-for-surface-navier-stokes)
