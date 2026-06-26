@@ -107,7 +107,7 @@ We present ngsolve_webgpu, a new GPU-native visualization stack for NGSolve and 
 
 This talk is a live, demo-driven tour of the new engine and its NGSolve integration.
 
-## ngapp + ngsolve_gui
+## ngapp and ngsolve_gui
 
 Christopher Lackner, Matthias Hochsteger<br>
 CERBSim

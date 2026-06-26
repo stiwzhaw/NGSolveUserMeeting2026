@@ -55,7 +55,7 @@ Please find below the meeting materials and resources for the NGSolve User Meeti
     * 16:20 - 16:50	Alexandre Tyl: [*Solving a Heat-Flow system using NGSolve*](Abstracts.md#solving-a-heat-flow-system-using-ngsolve)
     * 16:50 - 17:00  Short break
     * 17:00 - 17:30	Matthias Hochsteger, Christopher Lackner: [*WebGPU - Successor to webgui*](Abstracts.md#webgpu---successor-to-webgui)
-    * 17:30 - 18:00	Christopher Lackner, Matthias Hochsteger: [*ngapp + ngsolve_gui*](Abstracts.md#ngapp-+-ngsolve_gui)
+    * 17:30 - 18:00	Christopher Lackner, Matthias Hochsteger: [*ngapp + ngsolve_gui*](Abstracts.md#ngapp-and-ngsolve_gui)
 
 *   **19:00:** Workshop Dinner at **[Alte Kaserne](https://www.google.ch/maps/place/Alte+Kaserne+Kulturzentrum/@47.4978957,8.7314626,17z/data=!3m1!4b1!4m6!3m5!1s0x479a999cf56459dd:0x824337f4a4dddc51!8m2!3d47.4978957!4d8.7314626!16s%2Fg%2F122jqxx5?entry=tts&g_ep=EgoyMDI2MDUzMS4wIPu8ASoASAFQAw%3D%3D&skid=3eace40b-6069-47f8-a8c5-1caac07e6021)**
 
