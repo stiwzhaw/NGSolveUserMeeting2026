@@ -76,3 +76,44 @@ Swansea University
 Magnetic Resonance Imaging (MRI) scanners deliver detailed images of soft tissues, bones, and internal organs for medical diagnosis. The main coils are superconductors, which generate a strong static background magnetic field across the bore of the magnet and aligns the protons in a human body's water molecules. This is perturbed by a time-varying field produced by x, y and z gradient coils, which ensure the magnetic field strength change predictably with location and are used in the imaging process. The conducing shields prevent external field interference. However, MRI scanners are highly sensitive to external vibrations, particularly floor-borne vibrations (FBVs), which can lead to image distortion or artefacts, known as ‘ghosting’. Simulating the impact of these vibrations is challenging, as current three-dimensional transient solvers, widely used in the industry, cannot produce results within an industrially viable timeframe. To address this, we are developing new accurate efficient simulation methods.
 
 Our group has previously developed a computational framework for the simulation of the coupled magneto-mechanical problem in MATLAB, obtaining vibrations and induced stresses in the conducting components due to the eddy currents. Additionally reduced order models and Neural Networks were also developed to improve efficiency of output computation. We have developed a new computational framework using the python package NGSolve and high order finite elements, for solving the electro-magneto-mechanical problem in the frequency and transient domains for axisymmetric industrially motivated geometries, which we will review in the talk. The transient implementation includes a range of time-stepping schemes and fixed-point iteration acceleration for coupling physics. This allows the computation of nonlinear coupling terms, which is not feasible in the time-harmonic framework, providing a more accurate representation of the underlying physics and prediction of FBVs. The talk will also present our latest work towards extending this work to industrially relevant full three-dimensional geometries and FBV predictions.
+
+
+## Simulating a rotating fan in a heat-pump unit with NGSolve: an MCS–IPCS solver
+
+Christopher Lackner<br>
+CERBSim
+
+We present a solver for incompressible, high-Reynolds-number flow around a rotating fan, built on NGSolve and aimed at the design of heat-pump units. The flow is discretised with a mass-conserving mixed stress (MCS) method in H(div), giving pointwise divergence-free velocities, and advanced in time by an incremental pressure-correction (IPCS) splitting: an implicit MCS viscous step, a matrix-free upwind-DG convection step run on the GPU, and a hybridised mixed-Poisson pressure projection. Rotor and stator are meshed independently and coupled across a non-matching sliding interface using mortar methods, rebuilt each step for the velocity, pressure-trace and upwind-flux couplings.
+
+We validate the method on a fan in a wall mount and then apply it to a full heat-pump unit, with a detailed fan and a homogenised heat exchanger. We close with an outlook on reinforcement-learning-driven design of a robust, parametrised flow rectifier.
+
+* Joint work with the FFG-funded consortium (SCCH Hagenberg, TU Wien, Windpuls, EBM-papst, IDM Wärmepumpen).
+
+## Solving a Heat-Flow system using NGSolve
+
+Alexandre Tyl<br>
+CERBSim / ENSTA Paris
+
+n addition to the study of electromagnetic phenomena inside an electric transformer, the coupled heat-flow equations, regarding the oil inside the transformer, are an important and challenging question. This presentation outlines the development of a solver for the coupled heat equation and Navier–Stokes equations in the turret of an electric transformer, implemented in 2D using NGSolve.
+Starting from a naive Galerkin method, different methods were implemented over time to stabilize and optimize the solver. Based on the obtained results, the HDG method was implemented to stabilize the system and address the heat equation, whereas the MCS method was chosen for the Navier–Stokes equations to guarantee a divergence-free velocity field.
+The final solver provides an efficient way to simulate and solve the coupled thermal-fluid problem and can then be used to quantify heat flow costs due to electromagnetic  losses inside the transformer turret. The next step of the project would be the extension of the solver to solve similar 3D problems.
+
+## WebGPU - Successor to webgui
+
+Matthias Hochsteger, Christopher Lackner<br>
+CERBSim
+
+We present ngsolve_webgpu, a new GPU-native visualization stack for NGSolve and the planned replacement for webgui. Built on WebGPU, the modern successor to WebGL, it keeps the familiar Draw(cf, mesh, ...) interface while moving both rendering and computation onto the GPU: true high-order fields, clipping-plane cross-sections, streamlines and isosurfaces, complex-field phase animation, and export to standalone HTML for sharing.
+
+This talk is a live, demo-driven tour of the new engine and its NGSolve integration.
+
+## ngapp + ngsolve_gui
+
+Christopher Lackner, Matthias Hochsteger<br>
+CERBSim
+
+NGSolve simulations usually live in scripts that are hard to hand to anyone who didn't write them. ngapp is a Python framework for wrapping such a script in a small, interactive web app: you build the UI from components — inputs, layout, tables, 3D viewports, plots — in Python, and Python state and the browser stay in sync automatically through reactive components and event callbacks. The same app runs locally with hot reload, deploys to GitHub Pages as a client-side static page, or installs as a standalone Python package.
+
+ngsolve_gui is a GPU-based GUI for Netgen/NGSolve built on ngapp and ngsolve_webgpu. Your existing Draw calls open in it; it shows meshes, geometries and solution fields with clipping, deformation, vectors, fieldlines and isosurfaces, OCC face/edge picking, Plotly and matplotlib tabs, and probing by picking, and it can save and load its whole state. Because it is built from ngapp components, its viewers — mesh, function, geometry, plot — can be dropped into your own app or subclassed.
+
+The talk covers the component model, styling and embedded 3D views, how apps are run and deployed, and how to reuse the GUI's pieces in your own apps.
