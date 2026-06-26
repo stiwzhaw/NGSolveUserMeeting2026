@@ -117,3 +117,4 @@ NGSolve simulations usually live in scripts that are hard to hand to anyone who 
 ngsolve_gui is a GPU-based GUI for Netgen/NGSolve built on ngapp and ngsolve_webgpu. Your existing Draw calls open in it; it shows meshes, geometries and solution fields with clipping, deformation, vectors, fieldlines and isosurfaces, OCC face/edge picking, Plotly and matplotlib tabs, and probing by picking, and it can save and load its whole state. Because it is built from ngapp components, its viewers — mesh, function, geometry, plot — can be dropped into your own app or subclassed.
 
 The talk covers the component model, styling and embedded 3D views, how apps are run and deployed, and how to reuse the GUI's pieces in your own apps.
+

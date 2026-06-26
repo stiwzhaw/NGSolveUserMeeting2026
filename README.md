@@ -68,3 +68,5 @@ Please find below the meeting materials and resources for the NGSolve User Meeti
     * 11:15 - 12:00	Session 3
 
 *   **12:00:** Wrap-up and goodbyes
+
+
