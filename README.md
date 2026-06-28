@@ -9,7 +9,7 @@ Please find below the meeting materials and resources for the NGSolve User Meeti
 * **Lunch break:** [A brief overview can be found here](Docs/LunchBreak.md)
 
 
-# Preliminary Program Schedule
+# Preliminary Programme Schedule
 
 ## Get Together — Sunday, June 28, 2026
 *   **19:00:** Get together at **[Nelson Pub Winterthur](https://www.google.ch/maps/place/Nelson+Pub/@47.4979475,8.7234778,17z/data=!4m6!3m5!1s0x479a990cb44db039:0xb3f95785a2267414!8m2!3d47.4979475!4d8.7260527!16s%2Fg%2F11q1c_0fkx?entry=tts&g_ep=EgoyMDI2MDUzMS4wIPu8ASoASAFQAw%3D%3D&skid=545a91fc-edeb-446e-b6e8-0c84012e9266)**
@@ -17,12 +17,12 @@ Please find below the meeting materials and resources for the NGSolve User Meeti
 
 ## Day 1 — Monday, June 29, 2026
 *   **08:30:** Registration
-*   **09:00 - 12:00:** Introduction to NGSolve (Christoph Lehrenfeld)
-    * 9:00 - 9:45 *„Taming the Beast"* (Introduction I): Basics, Geometries and First PDEs
+*   **09:00 - 12:00:** [Introduction to NGSolve (Christoph Lehrenfeld)](https://ngsuite.pages.gwdg.de/ngsum2026-tutorial/)
+    * 9:00 - 9:45 [*„Taming the Beast"* (Introduction I): Basics, Geometries and First PDEs](https://ngsuite.pages.gwdg.de/ngsum2026-tutorial/#i-taming-the-beast-basics-geometries-first-pdes)
     * 9:45 - 10:15 Coffee break
-    * 10:15 - 11:00	*„In the Saddle"* (Introduction II): Features for Applications
+    * 10:15 - 11:00	[*„In the Saddle"* (Introduction II): Features for Applications](https://ngsuite.pages.gwdg.de/ngsum2026-tutorial/#ii-in-the-saddle-features-for-applications)
     * 11:00 - 11:15	Short break
-    * 11:15 - 12:00	*„Taking Flight"* (Introduction III): Advanced Techniques
+    * 11:15 - 12:00	*„Taking Flight"* [(Introduction III): Advanced Techniques](https://ngsuite.pages.gwdg.de/ngsum2026-tutorial/#iii-taking-flight-advanced-techniques)
 
 *   **12:00 - 14:00:** [Lunch Break](Docs/LunchBreak.md)
 *   **14:00 - 18:00:** Recent developments
