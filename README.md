@@ -22,7 +22,7 @@ Please find below the meeting materials and resources for the NGSolve User Meeti
     * 9:45 - 10:15 Coffee break
     * 10:15 - 11:00	[*„In the Saddle"* (Introduction II): Features for Applications](https://ngsuite.pages.gwdg.de/ngsum2026-tutorial/#ii-in-the-saddle-features-for-applications)
     * 11:00 - 11:15	Short break
-    * 11:15 - 12:00	*„Taking Flight"* [(Introduction III): Advanced Techniques](https://ngsuite.pages.gwdg.de/ngsum2026-tutorial/#iii-taking-flight-advanced-techniques)
+    * 11:15 - 12:00	[*„Taking Flight"* (Introduction III): Advanced Techniques](https://ngsuite.pages.gwdg.de/ngsum2026-tutorial/#iii-taking-flight-advanced-techniques)
 
 *   **12:00 - 14:00:** [Lunch Break](Docs/LunchBreak.md)
 *   **14:00 - 18:00:** Recent developments
