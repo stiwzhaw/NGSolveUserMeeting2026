@@ -37,8 +37,10 @@ Please find below the meeting materials and resources for the NGSolve User Meeti
 
 ## Day 2 — Tuesday, June 30, 2026
 *   **09:00 - 12:00:** User sessions
-    * 9:00 - 9:20 Kengo Sugahara: [*Coreform Cubit Integration with NGSolve (online)*](Abstracts.md#coreform-cubit-integration-with-ngsolve-(online)) [Power Point Presentation](Docs/Coreform Cubit Integration with NGSolve_audio.pptx)
-    * 9:30 - 9:50 Takaaki Yano: [*Bi-directional Weak Coupling of Integral Element Method and NGSolve for Magnetic Levitation Analysis (online)*](Abstracts.md#bi-directional-weak-coupling-of-integral-element-method-and-ngsolve-for-magnetic-levitation-analysis-(online)) [Power Point Presentation](Docs/Bi-directional Weak Coupling of Integral Element Method and NGSolve for Magnetic Levitation Analysis_audio.pptx)
+    * 9:00 - 9:20 Kengo Sugahara: [*Coreform Cubit Integration with NGSolve (online)*](Abstracts.md#coreform-cubit-integration-with-ngsolve-(online))<br>
+    [Power Point Presentation](Docs/KengoSugahara.pptx)
+    * 9:30 - 9:50 Takaaki Yano: [*Bi-directional Weak Coupling of Integral Element Method and NGSolve for Magnetic Levitation Analysis (online)*](Abstracts.md#bi-directional-weak-coupling-of-integral-element-method-and-ngsolve-for-magnetic-levitation-analysis-(online))<br>
+    [Power Point Presentation](Docs/TakaakiYano.pptx)
     * 9:50 - 10:20 Coffee break
     * 10:20 - 10:40	Paul Stocker: [*NGSTrefftz: Recent Developments*](Abstracts.md#ngstrefftz:-recent-developments)
     * 10:50 - 11:20	Camilo Tello Fachin: [*Coupled Finite Element Modeling of Ground Heat Recovery with Ice Formation*](Abstracts.md#coupled-finite-element-modeling-of-ground-heat-recovery-with-ice-formation)
