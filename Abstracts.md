@@ -40,12 +40,12 @@ A novel 1D-3D coupling approach embeds 1D pipe networks in 3D soil domains using
 
 The framework enables quantitative assessment of ice formation impacts on GSHP performance, supports ice-aware control, and exploration of seasonal thermal storage exploiting latent heat of soil ice.
 
-## Multiphysics Finite Element Simulation of Hybrid Electrical Tomography
+<!-- ## Multiphysics Finite Element Simulation of Hybrid Electrical Tomography
 
 Alberto Battistel<br>
 Furtwangen University, Germany
 
-Electrical impedance tomography (EIT) is a well-established imaging technique that enables real-time visualization of physiological processes due to its high temporal resolution, but it suffers from inherently low spatial resolution. Hybrid approaches aim to overcome this limitation by coupling electrical measurements with additional physical effects such as magnetic fields or locally induced mechanical motion. Examples include magneto-acoustic impedance tomography, Lorentz force impedance tomography, and acousto-electric tomography, which exploit interactions between electrical currents, magnetic fields, and acoustic or mechanical perturbations to improve spatial localization. In this work, we employ the finite element framework NGSolve to simulate these coupled physical interactions in biological tissues, providing a flexible computational environment for investigating both classical EIT and emerging hybrid tomographic modalities.
+Electrical impedance tomography (EIT) is a well-established imaging technique that enables real-time visualization of physiological processes due to its high temporal resolution, but it suffers from inherently low spatial resolution. Hybrid approaches aim to overcome this limitation by coupling electrical measurements with additional physical effects such as magnetic fields or locally induced mechanical motion. Examples include magneto-acoustic impedance tomography, Lorentz force impedance tomography, and acousto-electric tomography, which exploit interactions between electrical currents, magnetic fields, and acoustic or mechanical perturbations to improve spatial localization. In this work, we employ the finite element framework NGSolve to simulate these coupled physical interactions in biological tissues, providing a flexible computational environment for investigating both classical EIT and emerging hybrid tomographic modalities. -->
 
 ## Wave propagation in non-Newtonian media
 

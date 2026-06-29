@@ -31,7 +31,6 @@ Please find below the meeting materials and resources for the NGSolve User Meeti
     * 15:15 - 15:45 Umberto Zerbinati: [*ngsVEM: A Lightning Virtual Element Method Library for NGSolve*](Abstracts.md#ngsVEM:a-lightning-virtual-element-method-library-for-ngsolve)
     * 15:45 - 16:15	Coffee break
     * 16:15 - 16:45	Philip Lederer: [*Recent advances in the Dream-solver package*](https://github.com/plederer/dream_solver)
-    * 16:45 - 17:15	Paul Stocker: [*NGSTrefftz: Recent Developments*](Abstracts.md#ngstrefftz:-recent-developments)
     * 17:15 - 17:30 Natalia Tylek: [*Linear Solvers on GPUs*](https://natalia342n.github.io/ngs26_linearsolvers_gpu/intro.html)
     * 17:30 - 17:45 Rafael Dorigo: [*BEM in NGSolve*](https://erdieee.github.io/ngs26/index.html)
 
@@ -41,9 +40,11 @@ Please find below the meeting materials and resources for the NGSolve User Meeti
     * 9:00 - 9:20 Kengo Sugahara: [*Coreform Cubit Integration with NGSolve (online)*](Abstracts.md#coreform-cubit-integration-with-ngsolve-(online))
     * 9:30 - 9:50 Takaaki Yano: [*Bi-directional Weak Coupling of Integral Element Method and NGSolve for Magnetic Levitation Analysis (online)*](Abstracts.md#bi-directional-weak-coupling-of-integral-element-method-and-ngsolve-for-magnetic-levitation-analysis-(online))
     * 9:50 - 10:20 Coffee break
-    * 10:20 - 10:40	Camilo Tello Fachin: [*Coupled Finite Element Modeling of Ground Heat Recovery with Ice Formation*](Abstracts.md#coupled-finite-element-modeling-of-ground-heat-recovery-with-ice-formation)
-    * 10:50 - 11:20	Alberto Battistel: [*Multiphysics Finite Element Simulation of Hybrid Electrical Tomography*](Abstracts.md#multiphysics-finite-element-simulation-of-hybrid-electrical-tomography)
+    * 10:20 - 10:40	Paul Stocker: [*NGSTrefftz: Recent Developments*](Abstracts.md#ngstrefftz:-recent-developments)
+    * 10:50 - 11:20	Camilo Tello Fachin: [*Coupled Finite Element Modeling of Ground Heat Recovery with Ice Formation*](Abstracts.md#coupled-finite-element-modeling-of-ground-heat-recovery-with-ice-formation)
     * 11:30 - 11:50	Juan Pablo Carbajal, Reza Housseini: [*Wave propagation in non-Newtonian media*](Abstracts.md#wave-propagation-in-non-newtonian-media)
+
+    %* 10:50 - 11:20	Alberto Battistel: [*Multiphysics Finite Element Simulation of Hybrid Electrical Tomography*](Abstracts.md#multiphysics-finite-element-simulation-of-hybrid-electrical-tomography)
 
 *   **12:00 - 14:00:** [Lunch Break](Docs/LunchBreak.md)
 *   **14:00 - 18:00:** User sessions & insights from the core team
