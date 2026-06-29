@@ -29,9 +29,9 @@ Please find below the meeting materials and resources for the NGSolve User Meeti
     * 14:00 - 14:45	Joachim Schöberl: [*New developments in NGSolve*](https://jschoeberl.github.io/talk-UM26/README.html)
     * 14:45 - 15:15	Jay Gopalakrishnan: *Capturing losses and features of optical fiber modes.*
     * 15:15 - 15:45 Umberto Zerbinati: [*ngsVEM: A Lightning Virtual Element Method Library for NGSolve*](Abstracts.md#ngsVEM:a-lightning-virtual-element-method-library-for-ngsolve)
-    * 15:45 - 16:15	Coffee break
-    * 16:15 - 16:45	Philip Lederer: [*Recent advances in the Dream-solver package*](https://github.com/plederer/dream_solver)
-    * 16:45 - 17:00 Natalia Tylek: [*Linear Solvers on GPUs*](https://natalia342n.github.io/ngs26_linearsolvers_gpu/intro.html)
+    * 15:45 - 16:30	Coffee break
+    * 16:30 - 17:00	Philip Lederer: [*Recent advances in the Dream-solver package*](https://github.com/plederer/dream_solver)
+    * 17:00 - 17:15 Natalia Tylek: [*Linear Solvers on GPUs*](https://natalia342n.github.io/ngs26_linearsolvers_gpu/intro.html)
     * 17:15 - 17:30 Rafael Dorigo: [*BEM in NGSolve*](https://erdieee.github.io/ngs26/index.html)
 
 
