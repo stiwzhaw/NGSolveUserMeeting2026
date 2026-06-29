@@ -31,8 +31,8 @@ Please find below the meeting materials and resources for the NGSolve User Meeti
     * 15:15 - 15:45 Umberto Zerbinati: [*ngsVEM: A Lightning Virtual Element Method Library for NGSolve*](Abstracts.md#ngsVEM:a-lightning-virtual-element-method-library-for-ngsolve)
     * 15:45 - 16:15	Coffee break
     * 16:15 - 16:45	Philip Lederer: [*Recent advances in the Dream-solver package*](https://github.com/plederer/dream_solver)
-    * 17:15 - 17:30 Natalia Tylek: [*Linear Solvers on GPUs*](https://natalia342n.github.io/ngs26_linearsolvers_gpu/intro.html)
-    * 17:30 - 17:45 Rafael Dorigo: [*BEM in NGSolve*](https://erdieee.github.io/ngs26/index.html)
+    * 16:45 - 17:00 Natalia Tylek: [*Linear Solvers on GPUs*](https://natalia342n.github.io/ngs26_linearsolvers_gpu/intro.html)
+    * 17:15 - 17:30 Rafael Dorigo: [*BEM in NGSolve*](https://erdieee.github.io/ngs26/index.html)
 
 
 ## Day 2 — Tuesday, June 30, 2026
