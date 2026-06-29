@@ -33,7 +33,7 @@ Please find below the meeting materials and resources for the NGSolve User Meeti
     * 16:15 - 16:45	Philip Lederer: [*Recent advances in the Dream-solver package*](https://github.com/plederer/dream_solver)
     * 16:45 - 17:15	Paul Stocker: [*NGSTrefftz: Recent Developments*](Abstracts.md#ngstrefftz:-recent-developments)
     * 17:15 - 17:30 Natalia Tylek: [*Linear Solvers on GPUs*](https://natalia342n.github.io/ngs26_linearsolvers_gpu/intro.html)
-    * 17:30 - 17:45 Rafael Dorigo: *BEM in NGSolve*
+    * 17:30 - 17:45 Rafael Dorigo: [*BEM in NGSolve*](https://erdieee.github.io/ngs26/index.html)
 
 
 ## Day 2 — Tuesday, June 30, 2026
