@@ -51,7 +51,7 @@ Please find below the meeting materials and resources for the NGSolve User Meeti
 *   **12:00 - 14:00:** [Lunch Break](Docs/LunchBreak.md)
 *   **14:00 - 18:00:** User sessions & insights from the core team
     * 14:00 - 14:20	Sosoho-Abasi Udongwo: [*State-Space Concatenation of Reduced Finite Element Models for Accelerator Structures*](Abstracts.md#state-space-concatenation-of-reduced-finite-element-models-for-accelerator-structures)
-    * 14:30 - 14:50	Tim van Beeck: [*Releasing the pressure for Surface Navier-Stokes*](Abstracts.md#releasing-the-pressure-for-surface-navier-stokes)
+    * 14:30 - 14:50	Tim van Beeck: [*Releasing the pressure for Surface Navier-Stokes*](https://ngs26-slides-e1e94d.pages.gwdg.de/#1) ([Abstract](Abstracts.md#releasing-the-pressure-for-surface-navier-stokes))
     * 15:00 - 15:20  Yashwanth Sooriyakanthan: [*Efficient Computational Simulation of Floor-Borne Vibrations in Magnet Resonance Imaging Scanners*](Abstracts.md#efficient-computational-simulation-of-floor-borne-vibrations-in-magnet-resonance-imaging-scanners)
     * 15:30 - 16:00  Coffee break
     * 16:00 - 16:20  Christopher Lackner: [*Simulating a rotating fan in a heat-pump unit with NGSolve: an MCS–IPCS solver*](Abstracts.md#simulating-a-rotating-fan-in-a-heat-pump-unit-with-ngsolve:-an-mcs–ipcs-solver)
