@@ -42,7 +42,7 @@ Please find below the meeting materials and resources for the NGSolve User Meeti
     * 9:30 - 9:50 Takaaki Yano: [*Bi-directional Weak Coupling of Integral Element Method and NGSolve for Magnetic Levitation Analysis (online)*](Abstracts.md#bi-directional-weak-coupling-of-integral-element-method-and-ngsolve-for-magnetic-levitation-analysis-(online))<br>
     [Power Point Presentation](Docs/TakaakiYano.pptx)
     * 9:50 - 10:20 Coffee break
-    * 10:20 - 10:40	Paul Stocker: [*NGSTrefftz: Recent Developments*](Abstracts.md#ngstrefftz:-recent-developments)
+    * 10:20 - 10:40	Paul Stocker: [*NGSTrefftz: Recent Developments*](https://paulst.github.io/ngst26/) ([Abstract](Abstracts.md#ngstrefftz:-recent-developments))
     * 10:50 - 11:20	Camilo Tello Fachin: [*Coupled Finite Element Modeling of Ground Heat Recovery with Ice Formation*](Abstracts.md#coupled-finite-element-modeling-of-ground-heat-recovery-with-ice-formation)
     * 11:30 - 11:50	Juan Pablo Carbajal, Reza Housseini: [*Wave propagation in non-Newtonian media*](Abstracts.md#wave-propagation-in-non-newtonian-media)
 
