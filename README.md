@@ -43,7 +43,7 @@ Please find below the meeting materials and resources for the NGSolve User Meeti
     [Power Point Presentation](Docs/TakaakiYano.pptx)
     * 9:50 - 10:20 Coffee break
     * 10:20 - 10:40	Paul Stocker: [*NGSTrefftz: Recent Developments*](https://paulst.github.io/ngst26/) ([Abstract](Abstracts.md#ngstrefftz:-recent-developments))
-    * 10:50 - 11:20	Camilo Tello Fachin: [*Coupled Finite Element Modeling of Ground Heat Recovery with Ice Formation*](Abstracts.md#coupled-finite-element-modeling-of-ground-heat-recovery-with-ice-formation)
+    * 10:50 - 11:20	Camilo Tello Fachin: [*Coupled Finite Element Modeling of Ground Heat Recovery with Ice Formation*](Docs/CamiloTello.pdf) ([Abstract](Abstracts.md#coupled-finite-element-modeling-of-ground-heat-recovery-with-ice-formation))
     * 11:30 - 11:50	Juan Pablo Carbajal, Reza Housseini: [*Wave propagation in non-Newtonian media*](Abstracts.md#wave-propagation-in-non-newtonian-media)
 
     <!-- * 10:50 - 11:20	Alberto Battistel: [*Multiphysics Finite Element Simulation of Hybrid Electrical Tomography*](Abstracts.md#multiphysics-finite-element-simulation-of-hybrid-electrical-tomography) -->
