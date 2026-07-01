@@ -65,7 +65,7 @@ Please find below the meeting materials and resources for the NGSolve User Meeti
 
 ## Day 3 — Wednesday, July 1, 2026
 *   **09:00 - 12:00:** Mini sessions
-    * 9:00 - 9:45	Session 1: [ngapp](https://cerbsim.github.io/ngapp/)
+    * 9:00 - 9:45	Session 1: [ngapp](https://cerbsim.github.io/ngapp/), [NGSolve GUI](https://github.com/CERBSim/ngsolve_gui)
     * 9:45 -  10:15	Coffee break
     * 10:15 - 11:00	Session 2: [ngsolve webgpu](https://github.com/cerbsim/ngsolve_webgpu), [webgpu](https://github.com/cerbsim/webgpu), [Shared etherpad](https://pad.gwdg.de/yFcUPcsOTE-zREiwsl8tLw)
     * 11:00 - 11:15	Short break
